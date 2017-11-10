@@ -1,0 +1,44 @@
+{
+  "Comment Section": {
+    "prefix": "com-section",
+    "body": [
+      "/* ==========================================================================",
+      "   $1"
+      "   ========================================================================== */",
+      "",
+      "$2"
+    ],
+    "description": "Idiomatic CSS comment section"
+  },
+  "Comment Sub-Section": {
+    "prefix": "com-subsection",
+    "body": [
+      "/* ",
+      "   $1"
+      "   ========================================================================== */",
+      "",
+      "$2"
+    ],
+    "description": "Idiomatic CSS comment sub-section"
+  },
+  "Comment Long": {
+    "prefix": "com-long",
+    "body": [
+      "/**",
+      " * $1"
+      " */",
+      "",
+      "$2"
+    ],
+    "description": "Idiomatic CSS comment long"
+  },
+  "Comment Basic": {
+    "prefix": "com-basic",
+    "body": [
+      "/* $1 */",
+      "",
+      "$2"
+    ],
+    "description": "Idiomatic CSS comment basic"
+  }
+}

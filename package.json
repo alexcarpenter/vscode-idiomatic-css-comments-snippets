@@ -1,0 +1,21 @@
+{
+    "name": "vscode-idiomatic-css-comments-snippets",
+    "displayName": "Idiomatic CSS Comments Snippets",
+    "description": "Visual Studio Idiomatic CSS Comments",
+    "version": "0.0.1",
+    "publisher": "alexcarpenter",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "scss",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
